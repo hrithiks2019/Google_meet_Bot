@@ -20,6 +20,11 @@ Step3: Open Command_prompt/Terminal and Type "python3 bot.py" to run the script.
 ## Side Note:
 if you have any doubts please contact me at: hrithiks2012@gmail.com
 
+## Disclaimer:
+Current now this program can only join the classes you specified.
+
+in the upcoming version . there will be an feature to take notes by either taking screenshots of slides or transcripting the notes using google's live caption.
+
 ## Contributing:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
